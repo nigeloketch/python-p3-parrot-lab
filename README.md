@@ -36,7 +36,7 @@ messages to complete your work in the `lib/` folder.
 
 In this lab, you'll be defining a function called `parrot()`.
 
-The `parrot()` function should accept an argument of a string and both `print()`
+The `parrot()` function should accept an argument of a string and both `print()`lkn ;ln jl .l'jm
 and `return` the string at the end of the function.
 
 The `parrot()` function should have a default argument of `"Squawk!"`
